@@ -5,6 +5,7 @@
   width: 100%;
   box-sizing: border-box;
   margin: 5px;
+  top: 0;
 }
 .status-bar__column {
   width: 33%;
